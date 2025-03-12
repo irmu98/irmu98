@@ -15,3 +15,4 @@
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irmu98&layout=compact)](https://github.com/irmu98/github-readme-stats)
